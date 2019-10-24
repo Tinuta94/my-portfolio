@@ -16,11 +16,11 @@ export default class MySkills extends Component {
                     <li>Express.js</li>
                     </div>
                     <div class="skillstwo">
-                   <li> Mongoose</li>
+                   <li> MongoDB</li>
                    <li>SQL</li>
                    <li>Python</li>
                    <li>Django</li>
-                   <li>React</li>
+                   <li>React.js</li>
                    <li>Github</li>
                    </div>
                    </div>

@@ -1,22 +1,128 @@
-.App {
-  text-align: center;
+body {
+  background-color: #BB5D50;
+  /* background-image: url("https://nuwallpaperhd.info/wp-content/uploads/2018/01/canvas-abstract-Brown-Background-wallpaper.jpg"); */
 }
-
-.App-logo {
-  height: 40vmin;
+.image {
+  background-image: url("https://www.silver-atena.com/fileadmin/resources/pictures/portfolio/engineering/SiA_Header_Engineering_Software.jpg");
+  height: 310px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h1 {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-content: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: black
+}
+h3 {
+  /* display: flex;
+  align-content: center;
+  justify-content: center; */
+  color: black;
+  font-size: 20px;
+  margin-left: 60px;
+}
+.firstp, .secondp {
+  background-color: #5c7fcf;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-left: 320px;
+  margin-right: 60px;
+  color: black;
+  margin-top: -240px;
+  margin-bottom: 140px;
+  font-size: 18px
+  
+}
+.paragraph {
+  margin-left: 400px;
+  margin-top: -90px;
+  margin-bottom: 60px;
+  margin-right: 120px;
+  color: black
+}
+p {
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 20px;
+  color: black
+}
+.skillcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-between;
+  margin-top: 40px;
+  margin-left: 50px
+}
+.skillsone {
+  
+  margin-right: 210px
+}
+li {
+  font-size : 40px;
+  color: black
+}
+.link { 
+  color: white
+}
+.travelimages {
+  margin-left: 110px
+}
+img {
+  margin-right: 30px
+}
+.myimg {
+  border-radius: 100px;
+  margin-left: 40px;
+  margin-top: 60px
+}
+.personalinfo {
+  margin-left: 60px;
+}
+.container {
+  /* background-image: url("https://www.deloittedigital.com/content/dam/deloittedigital/us/images/landscape-2x1/hero-images/case-study-20180222-belk-hero.jpg"); */
+background-color: burlywood;
+  height: 340px
+}
+.name {
+  color: black
+}
+.clasa {
+  /* width: 900px;
+  height: 600px; */
+  margin-left: 260px;
+  margin-right: 20px
+}
+.projects {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  
+  
+  margin: 0 30px 0 30px;
+  
+  margin-bottom: 30px
+}
+.projthree {
+ 
+}
+a {
+  text-decoration: none;
 }
 
-.App-link {
-  color: #09d3ac;
+.proj {
+  color: black
+}
+.contactinfoo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-between;
+  align-items: center;
+  margin-top: 40px
+}
+.linkedin, .github, .mail {
+margin-right: 20px
 }

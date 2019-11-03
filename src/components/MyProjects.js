@@ -30,7 +30,7 @@ export default class MyProjects extends Component {
   <img src="https://i.imgur.com/qajIKM4.png" width="600" height="300"/>
   </div>
     <div class="textt">
-  <p class="proj">2.First Full-stack Application <a href="https://secure-castle-12366.herokuapp.com/login">"Galaxy"</a><br></br>
+  <p class="proj">2.First Full-stack Application <a href="https://secure-castle-12366.herokuapp.com">"Galaxy"</a><br></br>
   A foray into building a full-stack server application. I built a Node/Express App 
   with Mongo.The database I created keeps tracking of stores,clients and products, where 
   user can create, read, update and delete the information.

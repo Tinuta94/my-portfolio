@@ -54,15 +54,19 @@ p {
   justify-content: center;
   align-content: space-between;
   margin-top: 40px;
-  margin-left: 50px
+  /* margin-left: 50px */
 }
-.skillsone {
+.skillsone, .skillstwo {
+  margin-right: 80px
   
-  margin-right: 210px
+  /* margin-right: 210px */
 }
 li {
-  font-size : 40px;
+  font-size : 30px;
   color: black
+}
+h5 {
+  font-size: 35px
 }
 .link { 
   color: white

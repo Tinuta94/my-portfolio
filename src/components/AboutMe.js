@@ -23,7 +23,7 @@ export default class AboutMe extends Component {
               inside me a little bit of passion for programming.By the time my mind was full of
               different questions about this,and here I began my journey learning programming languages
                and answering my questions.</p>
-               <hr></hr>
+               
             
                <h3>They Joy Of Traveling</h3>
            
